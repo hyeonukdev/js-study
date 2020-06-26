@@ -20,3 +20,5 @@ var sub = function (num1, num2) {
 var cal = [add, sub];
 
 console.log(cal[0](2, 3));
+console.log(cal[1](2, 3));
+
